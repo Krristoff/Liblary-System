@@ -1,0 +1,13 @@
+C:\Users\natal\source\repos\Biblioteka\Biblioteka\obj\Debug\netcoreapp3.1\Biblioteka.AssemblyInfoInputs.cache
+C:\Users\natal\source\repos\Biblioteka\Biblioteka\obj\Debug\netcoreapp3.1\Biblioteka.AssemblyInfo.cs
+C:\Users\natal\source\repos\Biblioteka\Biblioteka\obj\Debug\netcoreapp3.1\Biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\natal\source\repos\Biblioteka\Biblioteka\bin\Debug\netcoreapp3.1\Biblioteka.exe
+C:\Users\natal\source\repos\Biblioteka\Biblioteka\bin\Debug\netcoreapp3.1\Biblioteka.deps.json
+C:\Users\natal\source\repos\Biblioteka\Biblioteka\bin\Debug\netcoreapp3.1\Biblioteka.runtimeconfig.json
+C:\Users\natal\source\repos\Biblioteka\Biblioteka\bin\Debug\netcoreapp3.1\Biblioteka.runtimeconfig.dev.json
+C:\Users\natal\source\repos\Biblioteka\Biblioteka\bin\Debug\netcoreapp3.1\Biblioteka.dll
+C:\Users\natal\source\repos\Biblioteka\Biblioteka\bin\Debug\netcoreapp3.1\Biblioteka.pdb
+C:\Users\natal\source\repos\Biblioteka\Biblioteka\obj\Debug\netcoreapp3.1\Biblioteka.dll
+C:\Users\natal\source\repos\Biblioteka\Biblioteka\obj\Debug\netcoreapp3.1\Biblioteka.pdb
+C:\Users\natal\source\repos\Biblioteka\Biblioteka\obj\Debug\netcoreapp3.1\Biblioteka.genruntimeconfig.cache
+C:\Users\natal\source\repos\Biblioteka\Biblioteka\obj\Debug\netcoreapp3.1\Biblioteka.csprojAssemblyReference.cache
